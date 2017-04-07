@@ -27,15 +27,29 @@ ul {list-style: none;}
 .cl {clear: both;}
 .db {display: inline-block;}
 
+
+.bg1 {background-color: #32383d;color: #fff;}
+.bg2 {background-color: #f5f7f9; color: #657180;}
+
 .bt1 {border-top: 1px solid #f7f8f9;}
 .bb1 {border-bottom: 1px solid #f7f8f9;}
 .tc {text-align: center;}
 
+.m30 {margin: 30px;}
+.p2 {padding: 2px;}
+.p30 {padding: 30px;}
 .pb30 {padding-bottom: 30px;}
+.pb20 {padding-bottom: 20px;}
 .pt30 {padding-top: 30px;}
 .pt10 {padding-top: 10px;}
+.f12 {font-size: 12px;}
+.f14 {font-size: 14px;}
+.f16 {font-size: 16px;}
 
 
+.leo-big-font {font-family: "微软雅黑";font-size: 20px;}
 .leo-menu, .leo-menu li {float: left;}
 .leo-menu li {display: inline-block; padding: 20px 30px;font-size: 16px;cursor: pointer;}
 .leo-menu li:hover {background-color: #3399ff; color: #fff;}
+
+
