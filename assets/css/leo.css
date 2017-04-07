@@ -27,7 +27,13 @@ ul {list-style: none;}
 .cl {clear: both;}
 .db {display: inline-block;}
 
+.bt1 {border-top: 1px solid #f7f8f9;}
 .bb1 {border-bottom: 1px solid #f7f8f9;}
+.tc {text-align: center;}
+
+.pb30 {padding-bottom: 30px;}
+.pt30 {padding-top: 30px;}
+.pt10 {padding-top: 10px;}
 
 
 .leo-menu, .leo-menu li {float: left;}
