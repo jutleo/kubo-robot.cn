@@ -1,0 +1,35 @@
+* {margin: 0;padding: 0;}
+body {
+	font-family: "Microsoft YaHei";
+	-webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;
+	font-size: 14px;
+	max-width: 1366px;
+	min-width: 1200px;
+}
+ul {list-style: none;}
+
+/**********leo-grid-12**********/
+.leo-container{width: 100%;min-width: 1024px;}
+.leo-row {margin-left: 15px;margin-right: 15px;}
+.leo-1,.leo-2,.leo-3,.leo-4,.leo-5,.leo-6,.leo-7,.leo-8,.leo-9,.leo-10,.leo-11,.leo-12{position:relative;float:left;}
+.leo-1 {width: 8.333333%;}
+.leo-2 {width: 16.666667%;}
+.leo-3 {width: 25%;}
+.leo-4 {width: 33.333333%;}
+.leo-5 { width: 41.666667%;}
+.leo-6 {width: 50%;}
+.leo-7 {width: 58.333333%;}
+.leo-8 {width: 66.666667%;}
+.leo-9 {width: 75%;}
+.leo-10 {width: 83.333333%;}
+.leo-11 {width: 91.666667%;}
+.leo-12 {width: 100%;}
+.cl {clear: both;}
+.db {display: inline-block;}
+
+.bb1 {border-bottom: 1px solid #f7f8f9;}
+
+
+.leo-menu, .leo-menu li {float: left;}
+.leo-menu li {display: inline-block; padding: 20px 30px;font-size: 16px;cursor: pointer;}
+.leo-menu li:hover {background-color: #3399ff; color: #fff;}
